@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main() {
-    cout << "Hello,rld!" << endl;
+    cout << "Heleygyugyulo,rld!" << endl;
     return 0;
 }
